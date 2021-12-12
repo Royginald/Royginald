@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Tryanno5
-- 👀 I’m interested in ... Automation testing and Arduino
-- 🌱 I’m currently learning ... mechanical engneering, Python, HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ...
+- 👀 I’m interested in Automation testing, Neural Networks, and Arduino
+- 🌱 I’m currently learning Mechanical Engneering, Python, HTML, CSS and JavaScript
 
 <!---
 Tryanno5/Tryanno5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
