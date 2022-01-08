@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tryanno5
+- 👋 Hi, I’m @Royginald
 - 👀 I’m interested in Automation testing, Neural Networks, and Arduino
 - 🌱 I’m currently learning Mechanical Engneering, Python, HTML, CSS and JavaScript
 
